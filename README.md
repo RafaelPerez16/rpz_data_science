@@ -7,8 +7,7 @@
 # Rafael Perez
 <sub>*Data Driven* </sub>
 
-Consultor Comercial e estudante a Ciência de Dados. Com experiencia de 7 anos a frente da análise de dados de uma multinacional do mercado de beleza, liderando toda a reestruturação de uma divisão com análises e relatórios, influenciando a tomada de decisão dos steakholders. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning e Negócios, com o objetivo de  entender melhor como os dados se comportam e extrair informações valiosas deles. Desta forma, consigo auxiliar a tomada de decisão através de boas estórias e análises
-
+Consultor Comercial e estudante a Ciência de Dados. Com experiencia de 7 anos a frente da análise de dados de uma multinacional do mercado de beleza, liderando toda a reestruturação de uma divisão com análises e relatórios, influenciando a tomada de decisão dos steakholders. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning e Negócios, com o objetivo de  entender melhor como os dados se comportam e extrair informações valiosas deles. Desta forma, consigo auxiliar a tomada de decisão através de análises e storytelling com os dados.
 
 **Background in:** Engenharia de Produção.
 
