@@ -20,5 +20,5 @@ Consultor Comercial e estudante a Ciência de Dados. Com experiencia de 7 anos a
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Análise dos Dados do Airbnb - Rio de Janeiro:** 
+* **Análise dos Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3wMSOvL
 
